@@ -1,0 +1,10 @@
+D:\Binari\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\Binari\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\Binari\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Form1.resources
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.cache
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\Binari\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
